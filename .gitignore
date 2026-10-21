@@ -1,0 +1,7 @@
+captures/*
+!captures/.gitkeep
+.env
+*.har
+*.mitm
+mitmconf/
+__pycache__/
